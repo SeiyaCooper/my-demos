@@ -2583,9 +2583,9 @@ mkdirp-classic@^0.5.2, mkdirp-classic@^0.5.3:
   integrity sha512-gKLcREMhtuZRwRAfqP3RFW+TK4JqApVBtOIftVgjuABpAtpxhPGaDcfvbhNvD0B8iD1oUr/txX35NjcaY6Ns/A==
 
 mraph@^0.0.1-dev.3:
-  version "0.0.1-dev.3"
-  resolved "https://registry.yarnpkg.com/mraph/-/mraph-0.0.1-dev.3.tgz#2d12b0605f67fd2b0fa08b37166842a9212eee58"
-  integrity sha512-wFxLVT1hvFG6p+piMlo3cViJiSD9xIDPEp/2RWy07rA77mWntg+n4OLmIlPPekjjodUIBpTnWtuR/bn5XeJa8A==
+  version "0.0.1-dev.4"
+  resolved "https://registry.yarnpkg.com/mraph/-/mraph-0.0.1-dev.4.tgz#b36dc3bbc0d45f3b1f3a3e69453e803173e7c8f4"
+  integrity sha512-kbuFdnUZb8H/Z77Oh5nUjqM6/X0hp/GhAnc7Mhm0uzo1sJxvsSP9PdRiaS8ZYPNA2Le3hTyMnIdb1lW8XkpDAg==
 
 ms@2.1.2:
   version "2.1.2"
