@@ -17,10 +17,10 @@
     },
     "homepage": "https://github.com/SeiyaCooper/my-demos#readme",
     "dependencies": {
+        "astro": "^4.5.5",
         "eslint": "^8.57.0",
         "eslint-plugin-prettier": "^5.1.3",
         "mraph": "^0.0.1-dev.3",
-        "prettier": "^3.2.5",
-        "vite": "^5.1.6"
+        "prettier": "^3.2.5"
     }
 }
